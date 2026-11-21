@@ -17,7 +17,7 @@ Last updated: 2026-11-21 (Claude chat session). Full notes: `sessions/2026-11-21
 - Storage: this folder + GitHub repo `joo147678/ai-sales-employee`. No Google Drive.
 
 ## Open / next
-1. Mohamed creates an empty private GitHub repo `ai-sales-employee`. Then push this folder to it.
+1. DONE 2026-11-21: pushed to private repo https://github.com/joo147678/ai-sales-employee (branch main). Keep D: folder and repo in sync.
 2. Mohamed shares the rest of the system changes he has in mind (he said he'd list them). Apply them to PLAYBOOK/CONTEXT.
 3. Decide where the agents run now (Claude Code / Codex / scheduled tasks) and reconnect them to this folder + repo instead of Drive.
 4. Warm leads waiting for action (details in `sessions/2026-11-21/outreach-analysis.md`): Ahmed Hussein (asked price), Mostafa Mansour, AbdulRahman Dawood, Ahmed Ebrahem (busy, fine), Aser, Nermeen Edrees (workshop on Nov 28).
