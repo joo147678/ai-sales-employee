@@ -16,6 +16,12 @@ Last updated: 2026-11-21 (Claude chat session). Full notes: `sessions/2026-11-21
 - Proof "1M views + EGP 132K client sales in 5 months" is confirmed.
 - Storage: this folder + GitHub repo `joo147678/ai-sales-employee`. No Google Drive.
 
+## Added 2026-11-21 (evening)
+- Sales team built: `agents/` (TL Senior Sales Team Leader + P1, P2, W1 Copywriter, S1–S6), shared `state/team-board.md`, `state/inbox/`, `state/alerts.md`, `state/run-log.md`.
+- `VOICE.md` (Mohamed's voice) and `messages/library.md` (what worked/failed, from 34 chats + Yassin's CRM).
+- Sheet exports archived: `archive/prospects-database-export-2026-11-21.md`, `archive/yassin-crm-export-2026-11-21.csv`.
+- Schedules designed (P1/P2 24/7; others Sat–Thu, Friday off) but NOT created yet. Waiting for Mohamed's outreach strategy + where to run (see open item 3).
+
 ## Open / next
 1. DONE 2026-11-21: pushed to private repo https://github.com/joo147678/ai-sales-employee (branch main). Keep D: folder and repo in sync.
 2. Mohamed shares the rest of the system changes he has in mind (he said he'd list them). Apply them to PLAYBOOK/CONTEXT.

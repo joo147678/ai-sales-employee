@@ -4,9 +4,11 @@ For any AI tool or model working on this project (Claude Code, Codex, Manus, Cha
 
 ## Read first, in this order
 1. `CONTEXT.md` — who Mohamed is, ICP, offers/prices, proof, voice. Wins over everything else.
-2. `PLAYBOOK.md` — the agents, workflow, sheet, message rules.
-3. `HANDOFF.md` — where the last session stopped and what's next.
-4. `state/decisions.md` and `learning-log.md`.
+2. `VOICE.md` and `messages/library.md` — how Mohamed writes; what worked and what didn't.
+3. `PLAYBOOK.md` — workflow, sheet, message rules.
+4. `agents/README.md` + your own file in `agents/` — the team, schedules, handoff protocol.
+5. `HANDOFF.md` — where the last session stopped and what's next.
+6. `state/team-board.md`, your inbox in `state/inbox/`, `state/decisions.md`, `learning-log.md`.
 
 ## Project rule (Mohamed, 2026-11-21)
 - This folder (`D:\OUTREACH\ai-sales-employee`, mirrored to GitHub `joo147678/ai-sales-employee`) holds EVERYTHING about this project.
@@ -17,7 +19,9 @@ For any AI tool or model working on this project (Claude Code, Codex, Manus, Cha
 ## Folder map
 - `CONTEXT.md`, `PLAYBOOK.md`, `HANDOFF.md`, `AGENTS.md`, `CLAUDE.md`
 - `learning-log.md`, `brand-strategy-2026-11-09.md`
-- `state/` — decisions, run state
+- `agents/` — one file per agent (TL, P1, P2, W1, S1–S6)
+- `VOICE.md`, `messages/library.md` — voice guide and message library
+- `state/` — team board, inboxes, alerts, run log, decisions
 - `briefs/` — daily sales briefs
 - `prospecting-logs/` — prospecting runs
 - `sessions/<date>/` — work done in chats (analyses, research, raw chat exports)

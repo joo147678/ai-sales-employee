@@ -77,6 +77,8 @@ Personal-branding / content agencies (competitors); full-service marketing agenc
 
 **Price question rule:** if a prospect asks the price before the call, answer it in one line (monthly price) + offer the 2K session as the first step + one question. Never answer a price question with only a booking link.
 
+**Booking link:** https://cal.com/mohamed-nmn4iu/discovery-call (share only after the prospect agreed to talk).
+
 **Downsell rule:** lead with the 1:1. On a clear "no / not now / too expensive" from a good fit, offer the group program once. If that's a no too → Nurture with a date, not Lost.
 
 ## 5. Proof (use only these)

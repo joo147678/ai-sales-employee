@@ -78,17 +78,14 @@ To write:
 - Never paste text that starts with `+`, `=`, `-` or `@` (it becomes a formula). WhatsApp numbers go in as `https://wa.me/20XXXXXXXXXX`.
 - Write only the cells you mean to change. Paste a single column range when possible.
 
-## 3. The 7 agents
-
-| Agent | Does | Mohamed approves |
-|---|---|---|
-| S0 Sales Lead | Orders the day: replies first, then calls, then proposals, then new outreach. Writes the Daily Sales Brief. | nothing |
-| S1 Outreach Operator | First message for APPROVED prospects with Sales Stage empty or `Not contacted`. | exact text, per version |
-| S2 Follow-up | Contacted with no reply: day 3, day 7, day 14 after Outreach Date. Each adds something new. | exact text |
-| S3 Reply & Qualify | Real replies: classify intent, check decision maker + real problem + economics, then offer the call. If the prospect asks about price, answer it (see Price question rule). | exact text |
-| S4 Call Prep & Show-up | For every booked call: 1-page Call Brief + reminder 24h and 2h before. After the call: notes from Fathom. | reminder template (once) |
-| S5 Proposal & Close | Proposal within 24h of the call, follow-ups 2 and 5 days after. | price, scope, text — always |
-| S6 Outcome & Learning | Won/Lost + reason; weekly review on Thursday; learning log. | any new rule |
+## 3. The team (updated 2026-11-21)
+The team is defined in `agents/README.md` (org chart, schedules, handoff protocol) and one file per agent in `agents/`.
+- **TL Senior Sales Team Leader** replaces S0: orchestrates every agent, is the QA gate for every draft, writes the daily brief, sends urgent alerts.
+- **P1 Lead Generator + P2 Qualifier** run 24/7 every day (they replace the single prospecting task of §15).
+- **W1 Copywriter** writes every prospect-facing text in Mohamed's voice (`VOICE.md`, `messages/library.md`).
+- S1–S6 as before, but they brief W1 instead of writing text themselves, and hand off through `state/inbox/` + `state/team-board.md`.
+- **Friday:** no prospect-facing work, no dates on Fridays (move to Saturday). P1/P2 still run.
+- Booking link: https://cal.com/mohamed-nmn4iu/discovery-call (only after the prospect agreed to talk).
 
 ## 4. Workflow rules
 
