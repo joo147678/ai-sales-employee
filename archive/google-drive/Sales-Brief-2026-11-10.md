@@ -1,0 +1,42 @@
+﻿Daily Sales Brief — الثلاثاء 10 نوفمبر 2026
+أول تشغيل. النهارده مفيش outreach جديد، والشغل كله على الـ warm leads.
+أهم 5 حاجات النهارده
+1. اقفل access ياسين: غيّر الباسوردات، واطلع من الـ sessions، وشيله من Business Suite ومن الشيتات.
+2. وافق على الـ 9 drafts اللي في تاب "الأسبوع 1" في الـ spec doc وابعتهم. بعد ما تبعت قول "sent 1,3,..." أو اكتبها في state/decisions.md.
+3. قولي مين اللي ما حضرش المكالمة: Ali Khawaja ولا آسر.
+4. ابعتلي نص آخر رد من Ahmed Hussein.
+5. ابعتلي نص أول رسالة اتبعتت للـ 9 اللي متسجلين Sent من غير تاريخ.
+مستني ردك (6 Replied + 2 No-Show)
+لؤي عبدالله، Ahmed Ebrahem، خالد بدر، سيف جومعة، إسلام علاء خلف، Ahmed Hussein. وNo-Show: Ali Khawaja وآسر.
+رسائل محتاجة موافقتك
+الـ 9 drafts (v1) موجودين في الـ spec doc، تاب "الأسبوع 1": https://claude.ai/artifact/NmdjmNfYhKZmMTRYXGVPzR#91703058-1bd9
+مكالمات جاية
+مفيش مكالمات محجوزة.
+Proposals
+مفيش.
+اتقفل النهارده
+Lost (A1 reject، media buyers أو سوق برّه الـ 7): Ahmed Moetaz، Mohamed Ramadan، Adham Ashraf، Hassan El Shanawany، Rony Haddad.
+Pipeline (88 prospect في الشيت)
+Sales Stage
+	العدد
+	فاضي (لسه ما اتلمسش في المبيعات)
+	56
+	Not contacted (Duplicate check)
+	4
+	Contacted
+	15
+	Replied
+	6
+	No-Show
+	2
+	Lost
+	5
+	
+
+APPROVED ولسه ما اتبعتلهمش (S1 هيبدأ فيهم بعد ما الـ warm leads يتحركوا): 28 prospect. أولهم Coach Conan وAbdulRahman وKinga وAhmed Rashad وMounaim Lamouni.
+Data problems
+* Dr. Sumaya Alnasser مكررة في صفين (53 و54).
+* الـ No-Show متسجل على شخصين مختلفين: Ali Khawaja (في الشيت) وآسر (في شيت ياسين).
+* Megan Johnson: في شيت متسجل إنها اتبعتلها على Instagram، وفي التاني LinkedIn.
+* فيه 5 صفوف عليها "Duplicate check" (Atef، Elbatta، Hesham Diab، Babiker، Osama Sakr). مش هيتبعتلهم حاجة لحد ما تأكد إن ياسين ما بعتلهمش.
+* الـ Outreach Date فاضي في أغلب الصفوف اللي عليها Sent.

@@ -1,0 +1,27 @@
+# AGENTS.md — AI Sales Employee (@builtbyjoo)
+
+For any AI tool or model working on this project (Claude Code, Codex, Manus, ChatGPT, others).
+
+## Read first, in this order
+1. `CONTEXT.md` — who Mohamed is, ICP, offers/prices, proof, voice. Wins over everything else.
+2. `PLAYBOOK.md` — the agents, workflow, sheet, message rules.
+3. `HANDOFF.md` — where the last session stopped and what's next.
+4. `state/decisions.md` and `learning-log.md`.
+
+## Project rule (Mohamed, 2026-11-21)
+- This folder (`D:\OUTREACH\ai-sales-employee`, mirrored to GitHub `joo147678/ai-sales-employee`) holds EVERYTHING about this project.
+- Anything created or changed in any chat or tool about this project is saved here as you go, not left inside the chat: decisions, analyses, research, drafts, logs.
+- Before ending a session: update `HANDOFF.md` (what was done, what's open, next step) and add a dated note in `sessions/<YYYY-MM-DD>/`.
+- Google Drive is retired for this project. Old Drive docs are in `archive/google-drive/` (read only).
+
+## Folder map
+- `CONTEXT.md`, `PLAYBOOK.md`, `HANDOFF.md`, `AGENTS.md`, `CLAUDE.md`
+- `learning-log.md`, `brand-strategy-2026-11-09.md`
+- `state/` — decisions, run state
+- `briefs/` — daily sales briefs
+- `prospecting-logs/` — prospecting runs
+- `sessions/<date>/` — work done in chats (analyses, research, raw chat exports)
+- `archive/google-drive/` — old Drive docs
+
+## Hard boundaries (from PLAYBOOK §7)
+Never send messages, never automate Instagram/LinkedIn DMs, never invent replies or proof. Mohamed approves every outbound text and every price.
