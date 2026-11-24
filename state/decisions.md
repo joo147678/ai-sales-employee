@@ -3,6 +3,7 @@
 Write approvals, edits and send confirmations here, or say them in chat. One line each:
 `YYYY-MM-DD | prospect | APPROVE v1 / EDIT -> v2 / SENT v1 on <channel> / REJECT | note`
 
+2026-11-24 | ALL | Booked call = URGENT: Agent 4 sends Mohamed a Call File (all data, full problem, suggested offer + why) | decided in chat
 2026-11-24 | ALL | Team = 4 agents: 1 Prospect Finder, 2 Qualifier, 3 Conversation Agent (chat + all follow-ups, never sells, invites to Discovery Call), 4 Head of Sales (supervises, QA, urgent alerts, weekly report, forecasts + recommendations) | decided in chat
 2026-11-24 | ALL | A2 correction: clients/offer/case studies not required; course sellers OK; exclude those whose audience is students/beginners. Offer ladder: free content → program/academy → consultation → 1:1 | decided in chat
 2026-11-24 | ALL | ICP segments set: A1 big media buyers (500K + content gap), A2 service solopreneurs ~18–27 (AI automation, B2B sales, service providers) who need content for clients, B domain experts ~30–45 with an 11–50 company (smaller still OK) whose expertise beats their online image | decided in chat

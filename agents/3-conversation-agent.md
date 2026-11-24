@@ -23,4 +23,4 @@ Get the prospect to tell us his problem so we can help. **We don't sell at all i
 - Friday: no drafts for Friday, no dates on Friday.
 
 ## Output
-Drafts → `state/inbox/4-head-of-sales.md` for QA, then the Message Queue for Mohamed. Updates its leads' rows on the team board (stage, last action, next action + date). When a call is booked: hands the lead to Agent 4 with a short note of what the prospect said (problem, goals, likely ladder step) so Mohamed walks into the call prepared.
+Drafts → `state/inbox/4-head-of-sales.md` for QA, then the Message Queue for Mohamed. Updates its leads' rows on the team board (stage, last action, next action + date). When a call is booked: immediately hands the lead to Agent 4 with everything the prospect said (the problem in his own words, goals, what he tried, likely ladder step and why). Agent 4 sends it to Mohamed as an URGENT Call File.

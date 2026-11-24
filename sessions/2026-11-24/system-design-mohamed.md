@@ -23,6 +23,7 @@ Prices as in CONTEXT §4 until Mohamed changes them.
    - Then a friendly recommendation to book a Discovery Call. On the call Mohamed understands the problem in depth and talks about the right offer.
    - **Follow-ups are Agent 3's job too** (Mohamed, 2026-11-24): same tone of voice, one agent to train. First follow-up 3–4 days after the first message; if the prospect replies, no follow-up, the conversation just continues.
 4. **Agent 4, Head of Sales** (Mohamed, 2026-11-24): supervises the whole process; holds the full structure; runs and corrects the agents; sends Mohamed anything urgent; weekly reports on the sales team and the process; prescriptive: forecasts + recommendations on what to improve and how, based on results and reports.
+   - **Booked call = URGENT** (Mohamed, 2026-11-24): Agent 4 sends Mohamed all the prospect's data, the full problem, the suggested offer and why.
 → Applied 2026-11-24: `agents/1-prospect-finder.md`, `2-qualifier.md`, `3-conversation-agent.md`, `4-head-of-sales.md`, new `agents/README.md`, PLAYBOOK §3. Old team archived in `archive/agents-v1/`.
 
 ### Open (Mohamed will continue)
