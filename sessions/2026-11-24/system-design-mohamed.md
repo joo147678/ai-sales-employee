@@ -41,3 +41,8 @@ Prices as in CONTEXT §4 until Mohamed changes them.
 ## Part 4 — First message: value first (thinking aloud, 2026-11-24, NOT final)
 Mohamed: the first message must make them link him to big value immediately; founders have no time to chat, they want "what will you give me". He wants to give the free value directly. Also keep Yassin's winning messages and techniques (opener A got ~11 replies from ~22 media buyers).
 Formats proposed by Claude to test (see chat 2026-11-24): F1 = Yassin's winning opener compressed (proof number + gap + ready asset + yes/no); F2 = the value itself inside the message (one usable insight or ready hook + a question); F3 = Mohamed's best-ever message (ready free video, "whether we work together or not").
+
+## Part 5 — Two outreach tracks (Mohamed, 2026-11-24)
+- **Cold outreach:** enters with the value directly in the first message, for the highest reply rate. No "shall I send it?", no file or link, no pitch. (Formats F1/F3 with "أبعتهولك؟" are dropped; F2, value inside the message, is the cold direction.)
+- **Warm / hot track:** a second part of sales, same Agent 3, for people who are warmer than cold. Mohamed will define it next.
+- Style fix: no commas/punctuation between sentences (that's what he meant by "الفواصل").

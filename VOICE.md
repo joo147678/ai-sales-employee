@@ -7,7 +7,8 @@ Goal: a prospect reading the message must not be able to tell it was drafted by 
 - **"حضرتك":** never with people close to his age (media buyers / solopreneurs ~23–27); always with anyone older (Segment B, 30–45).
 - **First message = two lines.** Not long.
 - **No emojis. Ever.** (2026-11-24)
-- **No line breaks between sentences:** the message is one flowing piece of text, the way he types it. (2026-11-24; this overrides the older "short lines" rule below.)
+- **No commas or punctuation between sentences** ("،" "." are not his): sentences flow into each other with "و" / "بس" / "عشان" the way he types. (2026-11-24) Line breaks: not decided yet; default one block.
+- **Never ask permission to send value** ("تحب أبعتهولك؟", "أبعتهولك؟"): in cold outreach the value is IN the first message, directly. (2026-11-24)
 - **Older people:** "إيه الأخبار يا أستاذ [الاسم]، يا رب تكون بخير" (2026-11-24).
 - **Founders and business owners have no time to chat.** All they want: what will you give me? Get to the value directly. (2026-11-24)
 - **The feeling:** "I'm not selling you anything; I'm trying to help you as much as I can, for free." Give real educational value or a tip, and show the gap between where they are now and where they'd fly if they applied it.
