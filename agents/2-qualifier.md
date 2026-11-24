@@ -8,6 +8,6 @@
 
 **Verdicts:** QUALIFIED / POSSIBLE FIT / REJECT / NEEDS INPUT. Only QUALIFIED and POSSIBLE FIT are written to the sheet as `PS1 READY`, column J = segment (A1/A2/B) + verdict + why now + evidenced gap + unknowns + sources. Rejects are counted, not written.
 
-**Output:** sheet rows; a handoff line to `state/inbox/4-head-of-sales.md` listing the new PS1 READY rows (Agent 4 bundles them for Mohamed's approval); one run-log line.
+**Output:** sheet rows; a handoff line to `state/inbox/3-account-analyst.md` for each new PS1 READY row (Agent 3 analyses the accounts next); one run-log line.
 
-**Escalate to Agent 4:** an edge case the ICP doesn't cover; more than one possible decision maker; contradicting data.
+**Escalate to Agent 5:** an edge case the ICP doesn't cover; more than one possible decision maker; contradicting data.

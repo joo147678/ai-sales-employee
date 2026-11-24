@@ -13,4 +13,4 @@ Markets: Egypt first, then UAE and KSA.
 
 **Quality bar:** no evidence = not a candidate. Quality over quota; report honestly if a run found few.
 
-**Escalate to Agent 4 (Head of Sales):** a source is blocked or tools fail 2 runs in a row; a suspected duplicate already contacted.
+**Escalate to Agent 5 (Head of Sales):** a source is blocked or tools fail 2 runs in a row; a suspected duplicate already contacted.

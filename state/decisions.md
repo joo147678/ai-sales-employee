@@ -3,6 +3,7 @@
 Write approvals, edits and send confirmations here, or say them in chat. One line each:
 `YYYY-MM-DD | prospect | APPROVE v1 / EDIT -> v2 / SENT v1 on <channel> / REJECT | note`
 
+2026-11-24 | ALL | New Agent 3 Account Analyst between Qualifier and Conversation: analyses all the prospect's accounts, quick breakdown with Mohamed's thinking, trained on his past work. Team = 5 agents (1 Finder, 2 Qualifier, 3 Analyst, 4 Conversation, 5 Head of Sales) | decided in chat
 2026-11-24 | ALL | Automated personalized video outreach: PAUSED (face/look cloning not possible locally); pilot kept in video-outreach/ | decided in chat
 2026-11-24 | ALL | Cold outreach = value directly inside the first message; never ask permission to send value; no commas between sentences, no emojis. Warm/hot track to be defined | decided in chat
 2026-11-24 | ALL | Booked call = URGENT: Agent 4 sends Mohamed a Call File (all data, full problem, suggested offer + why) | decided in chat
