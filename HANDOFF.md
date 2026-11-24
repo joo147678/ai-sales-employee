@@ -1,6 +1,6 @@
 # HANDOFF — where we stopped
 
-Last updated: 2026-11-21 (Claude chat session). Full notes: `sessions/2026-11-21/session-notes.md`.
+Last updated: 2026-11-24 (Claude chat session). Full chat summary: `sessions/2026-11-21/chat-context-export.md`. Notes: `sessions/2026-11-21/session-notes.md`.
 
 ## Status
 - The AI Sales Employee has been stopped since 2026-11-11 (ChatGPT credits ran out, and the AI kept misreading the ICP and positioning).
