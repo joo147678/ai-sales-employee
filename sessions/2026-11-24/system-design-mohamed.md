@@ -54,3 +54,4 @@ Options laid out by Claude (chat 2026-11-24):
 - B. AI avatar of his face + cloned voice (personalized avatar video tools). Fastest to look "on camera", highest risk of feeling fake.
 - C. Hybrid: Mohamed records ONE short real intro once, reused; the personalized part is generated (A).
 Risks: Egyptian-dialect quality of cloned voices must be tested; if a prospect spots AI, trust drops (Mostafa already called out AI copy). His own rule: no unexpected files/links, yet his best message was a direct free video. Needs a pilot on 1–3 prospects before any rollout.
+→ Pilot built 2026-11-24 (option A): `video-outreach/` (README, build_video.py, pilot-khaled-shetewy). 67-second video, placeholder Egyptian voice, zoom boxes on his bio and radio show, captions in Cairo. Waiting for Mohamed's review and the voice-clone decision.

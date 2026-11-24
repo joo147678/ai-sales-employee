@@ -1,0 +1,67 @@
+{
+  "prospect": "Khaled Shetewy (sheet row 96, Segment B, tax consultant, founder & CEO of IBS)",
+  "sources": [
+    "https://www.instagram.com/khaled_shetewy.1/ (bio: Chartered accountant & Tax consultant, Founder & CEO (IBS), Fellow of the Egyptian Tax...; posts: 90s FM radio clips, 'بيزنس في السليم')",
+    "Prospects sheet row 96, column J (IBS offer never stated on the account)"
+  ],
+  "voice_note": "Placeholder voice: Microsoft ar-EG-ShakirNeural. Final version: Mohamed's cloned voice.",
+  "segments": [
+    {
+      "visual": "profile",
+      "box": null,
+      "text": "إيه الأخبار يا أستاذ خالد يا رب تكون بخير، أنا محمد، وعملت الفيديو ده مخصوص لحضرتك بعد ما شفت الأكونت."
+    },
+    {
+      "visual": "profile",
+      "box": [
+        190,
+        120,
+        670,
+        165
+      ],
+      "text": "حضرتك محاسب قانوني ومستشار ضرايب ومؤسس IBS، وزميل في الجمعية المصرية للضرايب، يعني خبرة كبيرة جدا."
+    },
+    {
+      "visual": "grid",
+      "box": [
+        563,
+        0,
+        844,
+        375
+      ],
+      "text": "وبرنامج حضرتك بيزنس في السليم على تسعينات إف إم ده حاجة قوية جدا، ومش كل حد عنده المنبر ده."
+    },
+    {
+      "visual": "grid",
+      "box": [
+        0,
+        0,
+        1126,
+        375
+      ],
+      "text": "بس اللي بيدخل الأكونت بيشوف مقاطع راديو، ومش بيعرف هو المفروض ييجي لحضرتك ليه، يعني IBS بتعمل إيه ولمين مش واضحة في أي مكان."
+    },
+    {
+      "visual": "idea",
+      "box": null,
+      "card": "فكرة لحضرتك\nكل حلقة راديو = سؤال واحد\nبيسأله صاحب شركة جديدة\nوإجابته في دقيقة",
+      "text": "الفكرة اللي ممكن تفرق معاك من بكرة: كل حلقة راديو قطعها لسؤال واحد بيسأله صاحب شركة جديدة، زي إيه أول تلات حاجات لازم أعملها ضريبيا أول ما أفتح شركة، وجاوب عليه في دقيقة."
+    },
+    {
+      "visual": "grid",
+      "box": [
+        282,
+        0,
+        563,
+        375
+      ],
+      "text": "كده كل فيديو بيشتغل لوحده، وصاحب الشركة اللي بيدور على محاسب هيلاقي حضرتك قبل أي حد."
+    },
+    {
+      "visual": "profile",
+      "box": null,
+      "text": "ده ببلاش، وعاجبني المحتوى بتاع حضرتك سواء اشتغلنا مع بعض أو لأ، ولو حابب نتكلم فيها أكتر أنا موجود."
+    }
+  ],
+  "header": "فيديو مخصوص لأستاذ خالد شطيوي"
+}
