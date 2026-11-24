@@ -46,7 +46,7 @@ Every agent reads, at the start of every run: `CONTEXT.md` → `VOICE.md` → `P
 
 ## Source of truth
 - Pipeline data: Google Sheet "Prospects Database" (PLAYBOOK §2).
-- Rules and context: this repo / `D:\OUTREACH\ai-sales-employee`.
+- Rules and context: this repo / `D:\ai sales employee`.
 - Nothing is sent by any agent. Mohamed sends.
 
 ## Not built yet

@@ -11,7 +11,7 @@ For any AI tool or model working on this project (Claude Code, Codex, Manus, Cha
 6. `state/team-board.md`, your inbox in `state/inbox/`, `state/decisions.md`, `learning-log.md`.
 
 ## Project rule (Mohamed, 2026-11-21)
-- This folder (`D:\OUTREACH\ai-sales-employee`, mirrored to GitHub `joo147678/ai-sales-employee`) holds EVERYTHING about this project.
+- This folder (`D:\ai sales employee`, mirrored to GitHub `joo147678/ai-sales-employee`) holds EVERYTHING about this project.
 - Anything created or changed in any chat or tool about this project is saved here as you go, not left inside the chat: decisions, analyses, research, drafts, logs.
 - Before ending a session: update `HANDOFF.md` (what was done, what's open, next step) and add a dated note in `sessions/<YYYY-MM-DD>/`.
 - Google Drive is retired for this project. Old Drive docs are in `archive/google-drive/` (read only).

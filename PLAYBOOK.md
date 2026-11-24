@@ -155,7 +155,7 @@ Never:
 - Pitch a partnership/collab inside this pipeline. Partnerships are a separate track.
 
 ## 8. Where things live (updated 2026-11-21: Google Drive retired → this folder + GitHub)
-- **Source of truth:** the project folder `D:\OUTREACH\ai-sales-employee` on Mohamed's laptop, mirrored to the private GitHub repo `joo147678/ai-sales-employee` (repo to be created by Mohamed). Every run reads from and writes to these files, from any tool (Claude Code, Codex, Manus, any model).
+- **Source of truth:** the project folder `D:\ai sales employee` on Mohamed's laptop, mirrored to the private GitHub repo `joo147678/ai-sales-employee` (repo to be created by Mohamed). Every run reads from and writes to these files, from any tool (Claude Code, Codex, Manus, any model).
 - Start of every run: read `AGENTS.md` → `CONTEXT.md` → this file → `HANDOFF.md` (where the last session stopped).
 - Files: `CONTEXT.md`, `PLAYBOOK.md`, `HANDOFF.md`, `state/decisions.md` (Mohamed's approvals and "sent" lines), `learning-log.md`, `state/run-state-YYYY-MM-DD-HHMM.md`, `briefs/YYYY-MM-DD.md`, `prospecting-logs/`, `sessions/<date>/` (work done in chats), `archive/google-drive/` (old Drive docs, read only).
 - Wherever this playbook still says "Drive doc", "Decisions doc", "Run State doc" or "Sales Brief doc", use the matching file in this folder/repo instead. Do not create new Google Drive docs.
@@ -202,7 +202,7 @@ Existing audits: Ahmed Ebrahem, Ahmed Hussein, Khaled Badr, Seif Gomaa (PDF + HT
 
 ## 15. Prospecting (PS1 → AG → A1), 20 new prospects per day
 
-Runs on Mohamed's LAPTOP (scheduled task `ai-sales-prospecting`, 11:00 and 17:00 Cairo, 10 per run) because the cloud environment has no open internet. It uses Claude in Chrome, where Mohamed is signed in to Instagram, so it can read real public profiles. It only reads public pages: never DMs, never Follow/Like/Message/Connect. Logs go to `D:\OUTREACH\ai-sales-employee\prospecting-logs\`.
+Runs on Mohamed's LAPTOP (scheduled task `ai-sales-prospecting`, 11:00 and 17:00 Cairo, 10 per run) because the cloud environment has no open internet. It uses Claude in Chrome, where Mohamed is signed in to Instagram, so it can read real public profiles. It only reads public pages: never DMs, never Follow/Like/Message/Connect. Logs go to `D:\ai sales employee\prospecting-logs\`.
 Goal: 20 NEW, evidence-backed prospects per day written to the sheet as `PS1 READY`. Quality beats quota: a raw name without evidence does not count. If only 12 pass, write 12 and say why.
 
 ### Who Mohamed is and what he sells (Brand Strategy, 2026-11-09; full notes in brand-strategy-2026-11-09.md)
