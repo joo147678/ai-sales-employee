@@ -41,9 +41,10 @@ Take the `id` under `instagram_business_account`. It's a long number starting wi
 
 ## How the agents use it
 ```
-curl -s "https://graph.facebook.com/v21.0/$IG_USER_ID?fields=business_discovery.username(HANDLE){username,name,biography,website,followers_count,media_count,media.limit(12){caption,timestamp,media_type,like_count,comments_count,permalink}}&access_token=$META_IG_TOKEN"
+curl -sg "https://graph.facebook.com/v21.0/$IG_USER_ID?fields=business_discovery.username(HANDLE){username,name,biography,website,followers_count,media_count,media.limit(12){caption,timestamp,media_type,like_count,comments_count,permalink}}&access_token=$META_IG_TOKEN"
 ```
 - Error 110/100 "Invalid user id" or nothing returned = personal account or the handle doesn't exist, so "not visible".
 - Error 190 = the token expired, so one alert to Mohamed.
 - Limit: ~200 calls per hour. The Pipeline uses at most 30 per run.
+- Use `curl -g` (otherwise curl treats {} in the URL as a glob and the response breaks).
 - Read only. The API can't follow, like or DM anyone.

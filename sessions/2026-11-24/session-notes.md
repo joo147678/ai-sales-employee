@@ -18,3 +18,4 @@
 - First Sales Desk run (18:15 UTC) worked end to end and pushed state to main. Earlier 16:16 run hit the 5-hour usage limit.
 - 19:34 UTC: Default env still blocked despite 'Full access'. Mohamed created env 'sales web' (Full); network works there. All 4 routines moved to it (note: a partial job_config update wipes the prompt; always send the full ccr).
 - Instagram: Mohamed chose the official Meta Graph API (Business Discovery) over Apify/scrapers. Guide: setup/meta-instagram-api.md. Pipeline uses it once META_IG_TOKEN + IG_USER_ID are set in the 'sales web' env. Unofficial scraper test was refused by the permission classifier.
+- 2026-11-25 00:47 Cairo: Meta API test passed (token valid for builtbyjoo; Business Discovery read moabokhalil: bio, website, 38 followers, 0 posts).
