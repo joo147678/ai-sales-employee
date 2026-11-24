@@ -16,6 +16,7 @@ Saved to `analysis/<YYYY-MM-DD>-<name>.md` and linked in the sheet row:
 2. **What's strong:** his real expertise and proof, from his own public content (numbers, clients, results, credentials), with links.
 3. **The gap:** the one most important gap between his real expertise and how he shows up online, and why it costs him clients.
 4. **The opportunity (One-Solution Rule):** the gap's business impact (Problem → Consequence → Opportunity Cost) and ONE strategic opportunity with the desired outcome: the what, never the how (no number of videos, hooks, scripts, calendar or production system). Written so Agent 4 can put it straight into the first message. Audit = show the gap; Meeting = explore the strategy.
+   - **Plus ONE realistic action step he can do tomorrow** (Mohamed, 2026-11-24): small, concrete and tied to the gap (e.g. "turn the case study of brand X into one video about the decision behind it"). One step only, not a plan: no calendar, no series, no production system. It proves the value; the full strategy stays for the meeting.
 5. **Likely ladder step:** free content / program / consultation / 1:1, and why (a note for Mohamed, never said to the prospect).
 6. **Unknowns** and anything to verify before messaging (titles, age, company size).
 

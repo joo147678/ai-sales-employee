@@ -1,5 +1,7 @@
 # Prospect Audit — Context & Operating Guide (Mohamed, sent 2026-11-24)
 This is Mohamed's own method. Agent 3 (Account Analyst) follows it exactly. Saved verbatim; only Mohamed changes it.
+
+**Amendment (Mohamed, 2026-11-24):** next to the one strategic opportunity, add **ONE realistic action step the prospect can do tomorrow**: small, concrete, tied to the gap. One step only, not a plan (no calendar, series or production system); the full strategy and the how stay for the Discovery Call.
 Real examples: `D:\OUTREACH\` — Omar Edrees (Short FOMO Audit), Abdulrahman Dawood, Ahmed Hussein, Ahmed Ebrahem, Khaled Badr, Seif Gomaa, Joe Scales (Standard Detailed). Mostafa Mansour also got the Short FOMO style.
 
 ## Mohamed Strategy | Prospect Research & Content Audits

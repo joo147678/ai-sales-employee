@@ -3,6 +3,7 @@
 Write approvals, edits and send confirmations here, or say them in chat. One line each:
 `YYYY-MM-DD | prospect | APPROVE v1 / EDIT -> v2 / SENT v1 on <channel> / REJECT | note`
 
+2026-11-24 | ALL | Breakdown adds ONE realistic action step the prospect can do tomorrow (one step, not a plan) | decided in chat
 2026-11-24 | ALL | Agent 3 follows Mohamed's Prospect Audit guide (analysis/METHOD.md): gap → business impact → one strategic opportunity (what, not how) → Discovery Call | decided in chat
 2026-11-24 | ALL | New Agent 3 Account Analyst between Qualifier and Conversation: analyses all the prospect's accounts, quick breakdown with Mohamed's thinking, trained on his past work. Team = 5 agents (1 Finder, 2 Qualifier, 3 Analyst, 4 Conversation, 5 Head of Sales) | decided in chat
 2026-11-24 | ALL | Automated personalized video outreach: PAUSED (face/look cloning not possible locally); pilot kept in video-outreach/ | decided in chat
