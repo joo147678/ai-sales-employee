@@ -20,6 +20,9 @@ Saved to `analysis/<YYYY-MM-DD>-<name>.md` and linked in the sheet row:
 5. **Likely ladder step:** free content / program / consultation / 1:1, and why (a note for Mohamed, never said to the prospect).
 6. **Unknowns** and anything to verify before messaging (titles, age, company size).
 
+## Instagram (Mohamed, 2026-11-24)
+Read Instagram through the official Meta API (Business Discovery), not scraping: see `setup/meta-instagram-api.md`. If the cloud has `META_IG_TOKEN` and `IG_USER_ID`, read bio, website, followers, post count and the last 12 posts (caption, date, type, likes, comments, link). A personal account or an error = "not visible". Never print the token or save it to a file.
+
 ## Rules
 - Public pages only. Never Follow, Like, DM or Connect. Never open inboxes.
 - Facts only from his public content, with a link for each. Never invent numbers, clients or results. If you didn't see it, write "unknown".
