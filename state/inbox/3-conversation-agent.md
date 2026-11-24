@@ -1,2 +1,2 @@
-# Inbox — S4
+# Inbox — 3-conversation-agent
 `YYYY-MM-DD HH:MM | from AGENT | lead (row) | done | needed from you | links` → mark `DONE <date>` when handled.

@@ -19,7 +19,7 @@ For any AI tool or model working on this project (Claude Code, Codex, Manus, Cha
 ## Folder map
 - `CONTEXT.md`, `PLAYBOOK.md`, `HANDOFF.md`, `AGENTS.md`, `CLAUDE.md`
 - `learning-log.md`, `brand-strategy-2026-11-09.md`
-- `agents/` — one file per agent (TL, P1, P2, W1, S1–S6)
+- `agents/` — one file per agent: 1 Prospect Finder, 2 Qualifier, 3 Conversation Agent, 4 Head of Sales (old team in `archive/agents-v1/`)
 - `VOICE.md`, `messages/library.md` — voice guide and message library
 - `state/` — team board, inboxes, alerts, run log, decisions
 - `briefs/` — daily sales briefs

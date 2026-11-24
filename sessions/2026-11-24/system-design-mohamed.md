@@ -21,8 +21,9 @@ Prices as in CONTEXT §4 until Mohamed changes them.
    - Goal: get the prospect to tell us his problem so we can help. **We don't sell at all in chat.**
    - From his answers and problems, judge which step on the offer ladder fits.
    - Then a friendly recommendation to book a Discovery Call. On the call Mohamed understands the problem in depth and talks about the right offer.
-4. **Agent 4, Follow-up:** checks who booked a call from Agent 3's conversations; sends follow-ups to those who didn't reply. First follow-up 3–4 days after the first message. If the prospect replies, no follow-up: the conversation continues with the conversation agent.
-   - Mohamed asked: if follow-up alone is too little for its own agent, merge it.
+   - **Follow-ups are Agent 3's job too** (Mohamed, 2026-11-24): same tone of voice, one agent to train. First follow-up 3–4 days after the first message; if the prospect replies, no follow-up, the conversation just continues.
+4. **Agent 4, Head of Sales** (Mohamed, 2026-11-24): supervises the whole process; holds the full structure; runs and corrects the agents; sends Mohamed anything urgent; weekly reports on the sales team and the process; prescriptive: forecasts + recommendations on what to improve and how, based on results and reports.
+→ Applied 2026-11-24: `agents/1-prospect-finder.md`, `2-qualifier.md`, `3-conversation-agent.md`, `4-head-of-sales.md`, new `agents/README.md`, PLAYBOOK §3. Old team archived in `archive/agents-v1/`.
 
 ### Open (Mohamed will continue)
 - Message method, structure, tone of voice for Agent 3.

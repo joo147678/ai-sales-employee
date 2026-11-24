@@ -1,2 +1,2 @@
-# Inbox — S3
+# Inbox — 2-qualifier
 `YYYY-MM-DD HH:MM | from AGENT | lead (row) | done | needed from you | links` → mark `DONE <date>` when handled.

@@ -40,3 +40,6 @@ Last updated: 2026-11-24 (Claude chat session). Full chat summary: `sessions/202
 1. Mohamed decides: step after a reply (free 10-min call vs 2K session vs both), segment focus (A only or A+B), daily send capacity, where the agents run.
 2. Analyse the full chat set when it arrives; update `messages/library.md`, `learning-log.md`, team board.
 3. Overdue warm leads (team board): draft the messages for Mohamed in his voice (Ahmed Hussein price answer, Mostafa Reel script, Dawood question, Nermeen 3 hooks before 11-26).
+- 2026-11-24 (later): Mohamed defined the ICP (A1 big media buyers, A2 service solopreneurs ~18–27, B domain experts ~30–45 with a company), the offer ladder (free content → program → consultation → 1:1) and the team: 4 agents (Prospect Finder, Qualifier, Conversation Agent with all follow-ups, Head of Sales). Applied to CONTEXT §3–4, PLAYBOOK §3, `agents/`. Old 10-agent team archived. Spec: `sessions/2026-11-24/system-design-mohamed.md`.
+- Still to come from Mohamed: Agent 3 message method/structure/tone; follow-ups after the first one; where the agents run; A2 economics.
+- GitHub: the folder is now a git repo linked to `joo147678/ai-sales-employee`; commits are local. Push was blocked by auto mode (prospect personal data): Mohamed runs `git push -u origin main` himself.

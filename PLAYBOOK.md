@@ -78,13 +78,13 @@ To write:
 - Never paste text that starts with `+`, `=`, `-` or `@` (it becomes a formula). WhatsApp numbers go in as `https://wa.me/20XXXXXXXXXX`.
 - Write only the cells you mean to change. Paste a single column range when possible.
 
-## 3. The team (updated 2026-11-21)
-The team is defined in `agents/README.md` (org chart, schedules, handoff protocol) and one file per agent in `agents/`.
-- **TL Senior Sales Team Leader** replaces S0: orchestrates every agent, is the QA gate for every draft, writes the daily brief, sends urgent alerts.
-- **P1 Lead Generator + P2 Qualifier** run 24/7 every day (they replace the single prospecting task of §15).
-- **W1 Copywriter** writes every prospect-facing text in Mohamed's voice (`VOICE.md`, `messages/library.md`).
-- S1–S6 as before, but they brief W1 instead of writing text themselves, and hand off through `state/inbox/` + `state/team-board.md`.
-- **Friday:** no prospect-facing work, no dates on Fridays (move to Saturday). P1/P2 still run.
+## 3. The team (updated 2026-11-24: 4 agents)
+The team is defined in `agents/README.md` (org chart, schedules, handoff protocol) and one file per agent in `agents/`. The old 10-agent team is in `archive/agents-v1/`.
+- **Agent 1 Prospect Finder** (24/7) and **Agent 2 Qualifier** (24/7): find and filter prospects in segments A1, A2 and B (CONTEXT §3).
+- **Agent 3 Conversation Agent** (Sat–Thu): owns the whole conversation: first message, every reply, every follow-up (first one 3–4 days after the first message), and the friendly call invite. Never sells in chat; gets the prospect to name his problem; notes which offer-ladder step fits (CONTEXT §4). The only agent trained on Mohamed's voice.
+- **Agent 4 Head of Sales**: supervises the whole process and the 3 agents, QA gate for every draft, urgent alerts, daily brief, weekly report, forecasts and prescriptive recommendations.
+- Mohamed approves prospects, every text and every price, sends every message, and takes the Discovery Call where he picks the right offer.
+- **Friday:** no prospect-facing work, no dates on Fridays (move to Saturday). Agents 1 and 2 still run.
 - Booking link: https://cal.com/mohamed-nmn4iu/discovery-call (only after the prospect agreed to talk).
 
 ## 4. Workflow rules
