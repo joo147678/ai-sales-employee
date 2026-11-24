@@ -3,6 +3,7 @@
 Write approvals, edits and send confirmations here, or say them in chat. One line each:
 `YYYY-MM-DD | prospect | APPROVE v1 / EDIT -> v2 / SENT v1 on <channel> / REJECT | note`
 
+2026-11-24 | ALL | ICP segments set: A1 big media buyers (500K + content gap), A2 service solopreneurs ~18–27 (AI automation, B2B sales, service providers) who need content for clients, B domain experts ~30–45 with an 11–50 company (smaller still OK) whose expertise beats their online image | decided in chat
 2026-11-21 | ALL | Media buyers / performance marketers are ICP for Personal Brand (not peers) | decided in chat
 2026-11-21 | ALL | Partnerships/collabs are a separate track, not handled by this employee | decided in chat
 2026-11-21 | ALL | All offers are month-to-month; no 3-month term. New prices in CONTEXT.md (old $400 + % list retired) | decided in chat

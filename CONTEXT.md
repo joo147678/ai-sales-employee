@@ -3,7 +3,7 @@
 Every agent reads this file FIRST, before PLAYBOOK.md, on every run.
 This is the single source for: who Mohamed is, what this pipeline sells, the ICP, offers and prices, allowed proof and voice.
 If PLAYBOOK.md or any older note disagrees with this file, this file wins. Only Mohamed changes this file.
-Last updated: 2026-11-21.
+Last updated: 2026-11-24 (segments A1/A2/B by Mohamed).
 
 ---
 
@@ -27,7 +27,9 @@ Out of scope for this pipeline (separate tracks, never pitched here):
 
 **Core rule:** a person who owns a real, proven business with real expertise, whose results and judgment are stronger than how the market sees them online, and who can afford the offer.
 
-### Segment A: Media buyers / performance marketers (ICP since 2026-11-21)
+### Segment A has two types: A1 big media buyers, A2 young service solopreneurs (Mohamed, 2026-11-24)
+
+#### A1: Media buyers / performance marketers (ICP since 2026-11-21)
 Freelance media buyers, performance marketers, growth/scaling specialists, and media-buying agency founders.
 - **Why they fit:** fast, large cash flow; they sell a high-trust service where the buyer (a brand owner) needs to trust their thinking before handing them the budget.
 - **Who qualifies: the "big" media buyers only (Mohamed, 2026-11-21).** Both conditions must be met:
@@ -39,10 +41,19 @@ Freelance media buyers, performance marketers, growth/scaling specialists, and m
 - **Not this segment:** media buyers under the 500K threshold; those whose main business is selling beginner courses (judge as a course business); pure employees with no client business; those whose content already speaks clearly to big brands with their results (no gap).
 - **Economics:** the 500K+ results are the economics signal. Never assume income; budget is confirmed on the call.
 
-### Segment B: Founders of trust-based service businesses
-B2B consulting/advisory, business/executive coaching, accounting/tax/financial services, legal, AI implementation, operations/strategy consulting, career consulting, English/corporate training, clinic or center founders when the opportunity is clear.
-- Size: primary 11–50 employees; 1–10 when other signals are very strong.
-- Economics: Egypt offer of EGP 10K–20K+ = strong, ~5K = borderline; Gulf/Europe ≈ EGP 25K–30K+ equivalent.
+#### A2: Service solopreneurs (Mohamed, 2026-11-24)
+- **Who:** a solopreneur, roughly **18–27 years old**, who sells a **service** (not a course or a product). Examples: AI automation / AI implementation for businesses (helps companies put AI into their work), B2B sales services, and service providers in general.
+- **Why they fit:** they need content to bring in more clients; their skill is real but the market doesn't see it yet.
+- **Qualifies when:** they actually sell a service to businesses (clients, offer or case studies visible), and their content doesn't yet bring them clients (little content, generic tips, or content that doesn't show their work).
+- **Not this type:** students or beginners with no paying clients yet; people whose main business is selling courses; employees with no client business.
+- **Economics:** open question for Mohamed (whether they can afford the 1:1 or fit the group program better). Until he decides, write what you saw (clients, prices, team) and never assume income.
+
+### Segment B: Domain experts with a company (Mohamed, 2026-11-24)
+- **Who:** experts in their field: consultants, coaches, accountants, tax consultants, lawyers, language instructors (English or any language), clinic owners; also B2B consulting/advisory, AI implementation, operations/strategy and career consulting.
+- **Age:** roughly **30–45 years old**.
+- **Company:** owns a company of about **11–50 employees**. Smaller than that is still a strong signal to work with them when the other signals are strong.
+- **The gap:** their expertise is stronger than how they look online.
+- **Economics:** Egypt offer of EGP 10K–20K+ = strong, ~5K = borderline; Gulf/Europe ≈ EGP 25K–30K+ equivalent.
 
 ### Markets
 Egypt (priority), UAE, Saudi Arabia. Others only as listed in PLAYBOOK section 15.
