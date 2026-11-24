@@ -2,6 +2,20 @@
 
 Goal: a prospect reading the message must not be able to tell it was drafted by AI. Read `messages/library.md` for the real examples.
 
+## Mohamed's own rules (voice interview 2026-11-24; full answers in `sessions/2026-11-24/voice-interview.md`). These win over everything below.
+- **Opening:** "إيه الأخبار يا [الاسم]، يا رب تكون بخير" (with older people: "إيه الأخبار، أهلا بحضرتك").
+- **"حضرتك":** never with people close to his age (media buyers / solopreneurs ~23–27); always with anyone older (Segment B, 30–45).
+- **First message = two lines.** Not long.
+- **The feeling:** "I'm not selling you anything; I'm trying to help you as much as I can, for free." Give real educational value or a tip, and show the gap between where they are now and where they'd fly if they applied it.
+- **The move, per segment (his own examples):**
+  - Media buyer: genuine respect for his results ("ما شاء الله النتايج كبيرة جدا") + a curious question: why don't you show the thinking behind these results?
+  - Expert 30–45 (e.g. tax consultant): "أهلا بحضرتك" + I saw your account + are you interested in content that shows your expertise and educates people (e.g. founders starting companies about their tax issues)?
+  - Solopreneur (e.g. AI automation): I've followed you / learned from you (only if true) + one concrete suggestion (target companies, technical tips on topics companies need) + we've worked with similar agencies on their content, happy to talk about it if you want.
+- **"متابعك بقالي فترة" / "اتعلمت منك":** Mohamed's real style, but use it ONLY when it's true (he actually follows or checked their content). Never as fake flattery.
+- **Never formal فصحى.** Text, not voice notes. Foreigners: English, never Egyptian.
+- **Never do what annoys him in his own inbox:** opening with "I'm X, I closed a deal with someone like you for $300, want to book?"; "I achieved X, I see problems in your account, let's work on a win-win %"; "السلام عليكم" or "ممكن سؤال" and then silence; a file or a link out of nowhere.
+- **His best-ever message** was value first and free: a Loom made for the prospect, "for free, and I like your content whether we work together or not". Keep that spirit. Because he dislikes unexpected files/links himself, the value should be announced and wanted first (or written inside the message), then sent.
+
 ## Who is talking
 Mohamed himself, first person singular ("أنا", "شايف", "عملتلك"), from the first message on. Never "إحنا كفريق" plus a middleman. "إحنا" only when it's natural ("نشوف سوا").
 
