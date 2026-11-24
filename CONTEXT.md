@@ -42,10 +42,11 @@ Freelance media buyers, performance marketers, growth/scaling specialists, and m
 - **Economics:** the 500K+ results are the economics signal. Never assume income; budget is confirmed on the call.
 
 #### A2: Service solopreneurs (Mohamed, 2026-11-24)
-- **Who:** a solopreneur, roughly **18–27 years old**, who sells a **service** (not a course or a product). Examples: AI automation / AI implementation for businesses (helps companies put AI into their work), B2B sales services, and service providers in general.
+- **Who:** a solopreneur, roughly **18–27 years old**, who sells a **service** (selling courses is also OK). Examples: AI automation / AI implementation for businesses (helps companies put AI into their work), B2B sales services, and service providers in general.
 - **Why they fit:** they need content to bring in more clients; their skill is real but the market doesn't see it yet.
-- **Qualifies when:** they actually sell a service to businesses (clients, offer or case studies visible), and their content doesn't yet bring them clients (little content, generic tips, or content that doesn't show their work).
-- **Not this type:** students or beginners with no paying clients yet; people whose main business is selling courses; employees with no client business.
+- **Qualifies when:** they need content to bring them more clients (little content, generic tips, or content that doesn't show their work). Visible clients, offer or case studies are a plus, **not required** (Mohamed, 2026-11-24).
+- **Course sellers are OK** (Mohamed, 2026-11-24).
+- **Not this type:** anyone whose audience is students or beginners (they target learners, not businesses or buyers who can pay).
 - **Economics:** open question for Mohamed (whether they can afford the 1:1 or fit the group program better). Until he decides, write what you saw (clients, prices, team) and never assume income.
 
 ### Segment B: Domain experts with a company (Mohamed, 2026-11-24)
@@ -74,6 +75,13 @@ Expects results within a month. Expects Mohamed to do everything without giving 
 Personal-branding / content agencies (competitors); full-service marketing agencies with their own content team; creators with no real business; multinationals/enterprise; very mature founder brands; accounts that already run a strong content system with no clear gap; no offer or business evidence. Exclusion needs evidence, not a keyword. Followers and views are never evidence of fit or pain.
 
 ## 4. Offers and prices (month-to-month)
+
+### The offer ladder (Mohamed, 2026-11-24): lowest to highest
+1. **Free content:** YouTube + Reels. For anyone who can't pay for a service yet. Never a dead end: a prospect who can't pay is pointed here.
+2. **Program / academy:** the prospect executes by himself under Mohamed's supervision.
+3. **Consultation:** a paid session with Mohamed (today: the 1-hour strategy session).
+4. **1:1:** working with Mohamed directly. The highest and most expensive offer.
+The conversation agent never pitches an offer in chat. It learns the prospect's problem; on the Discovery Call Mohamed picks the right step on this ladder.
 
 **Everything is month-to-month (شهر بشهر). Never say "3 months" or "عقد 3 شهور".** The client pays monthly: at the start of each month there is a payment due (not a strict day). The monthly price includes everything in the offer's scope below. No discounts: change scope, not price. Mohamed approves every number in a proposal.
 
