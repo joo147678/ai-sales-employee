@@ -47,7 +47,7 @@ Freelance media buyers, performance marketers, growth/scaling specialists, and m
 - **Qualifies when:** they need content to bring them more clients (little content, generic tips, or content that doesn't show their work). Visible clients, offer or case studies are a plus, **not required** (Mohamed, 2026-11-24).
 - **Course sellers are OK** (Mohamed, 2026-11-24).
 - **Not this type:** anyone whose audience is students or beginners (they target learners, not businesses or buyers who can pay).
-- **Economics:** open question for Mohamed (whether they can afford the 1:1 or fit the group program better). Until he decides, write what you saw (clients, prices, team) and never assume income.
+- **Offer fit (Mohamed, 2026-11-24):** between the 1:1 and the program/academy. Mohamed decides on the call. Never assume income; write what you saw (clients, prices, team).
 
 ### Segment B: Domain experts with a company (Mohamed, 2026-11-24)
 - **Who:** experts in their field: consultants, coaches, accountants, tax consultants, lawyers, language instructors (English or any language), clinic owners; also B2B consulting/advisory, AI implementation, operations/strategy and career consulting.

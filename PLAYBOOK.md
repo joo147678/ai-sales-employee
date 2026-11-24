@@ -80,12 +80,12 @@ To write:
 
 ## 3. The team (updated 2026-11-24: 5 agents)
 The team is defined in `agents/README.md` (org chart, schedules, handoff protocol) and one file per agent in `agents/`. The old 10-agent team is in `archive/agents-v1/`.
-- **Agent 1 Prospect Finder** (24/7) and **Agent 2 Qualifier** (24/7): find and filter prospects in segments A1, A2 and B (CONTEXT §3).
-- **Agent 3 Account Analyst** (every day): analyses all of each qualified prospect's accounts and writes a quick breakdown with Mohamed's thinking: what's strong, the gap, ONE free idea for the first message, likely ladder step. Trained on Mohamed's past breakdowns.
-- **Agent 4 Conversation Agent** (Sat–Thu): owns the whole conversation: first message, every reply, every follow-up (first one 3–4 days after the first message), and the friendly call invite. Never sells in chat; gets the prospect to name his problem; notes which offer-ladder step fits (CONTEXT §4). The only agent trained on Mohamed's voice.
+- **Agent 1 Prospect Finder** and **Agent 2 Qualifier**: find and filter prospects in segments A1, A2 and B (CONTEXT §3).
+- **Agent 3 Account Analyst**: analyses all of each qualified prospect's accounts and writes a quick breakdown with Mohamed's thinking: what's strong, the gap, ONE free idea for the first message, likely ladder step. Trained on Mohamed's past breakdowns.
+- **Agent 4 Conversation Agent**: owns the whole conversation: first message, every reply, every follow-up (2 follow-ups: day 3 and day 6 from the first message, then Nurture), and the friendly call invite. Never sells in chat; gets the prospect to name his problem; notes which offer-ladder step fits (CONTEXT §4). The only agent trained on Mohamed's voice.
 - **Agent 5 Head of Sales**: supervises the whole process and the 3 agents, QA gate for every draft, urgent alerts, daily brief, weekly report, forecasts and prescriptive recommendations.
 - Mohamed approves prospects, every text and every price, sends every message, and takes the Discovery Call where he picks the right offer.
-- **Friday:** no prospect-facing work, no dates on Fridays (move to Saturday). Agents 1, 2 and 3 still run.
+- **Runs in the cloud 24/6 (Saturday–Thursday). Friday is off for every agent;** dates that land on Friday move to Saturday.
 - Booking link: https://cal.com/mohamed-nmn4iu/discovery-call (only after the prospect agreed to talk).
 
 ## 4. Workflow rules

@@ -1,4 +1,4 @@
-# Agent 1 — Prospect Finder (24/7, every day incl. Friday)
+# Agent 1 — Prospect Finder (24/6: Saturday–Thursday, Friday off)
 
 **Job:** find new people who may become Mohamed's clients, in the segments of CONTEXT §3:
 - **A1** big media buyers / performance marketers / media-buying agency founders (EGP 500K+ documented sales for a brand + a content gap).

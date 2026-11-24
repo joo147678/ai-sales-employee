@@ -13,23 +13,22 @@ Every agent reads, at the start of every run: `CONTEXT.md` → `VOICE.md` → `P
         ┌─────────────┬──┴──────────┬─────────────────┐
      Agent 1        Agent 2        Agent 3           Agent 4
   Prospect Finder → Qualifier → Account Analyst → Conversation Agent
-     (24/7)          (24/7)     (breakdown with     (first message with the free value,
+     (24/6)          (24/6)     (breakdown with     (first message with the free value,
                                  Mohamed's thinking)  chat, follow-ups, call invite)
 ```
 
 | Agent | File | Runs | Hands off to |
 |---|---|---|---|
-| 1 Prospect Finder | `1-prospect-finder.md` | 24/7, every day incl. Friday | Agent 2 |
-| 2 Qualifier | `2-qualifier.md` | 24/7, every day incl. Friday | Agent 3 |
-| 3 Account Analyst | `3-account-analyst.md` | every day (no prospect contact) | Agent 5 → Mohamed (approval) → Agent 4 |
-| 4 Conversation Agent | `4-conversation-agent.md` | Sat–Thu | Agent 5 (QA) → Message Queue → Mohamed sends; Agent 5 when a call is booked |
+| 1 Prospect Finder | `1-prospect-finder.md` | 24/6 (Sat–Thu) | Agent 2 |
+| 2 Qualifier | `2-qualifier.md` | 24/6 (Sat–Thu) | Agent 3 |
+| 3 Account Analyst | `3-account-analyst.md` | 24/6 (Sat–Thu) | Agent 5 → Mohamed (approval) → Agent 4 |
+| 4 Conversation Agent | `4-conversation-agent.md` | 24/6 (Sat–Thu) | Agent 5 (QA) → Message Queue → Mohamed sends; Agent 5 when a call is booked |
 | 5 Head of Sales | `5-head-of-sales.md` | every team run + 09:30 daily brief + Thursday weekly report | everyone; Mohamed |
 
 Old team (TL, P1, P2, W1, S1–S6) is in `archive/agents-v1/` for reference only.
 
-## Working days
-- **Friday is off for everything prospect-facing**: no drafts for Friday, no follow-up dates on a Friday (move to Saturday), no brief.
-- Agents 1, 2 and 3 run every day including Friday (they don't contact anyone).
+## Working days (Mohamed, 2026-11-24)
+- The system runs in the **cloud, 24/6: Saturday to Thursday. Friday is off for every agent.** No drafts, no runs, no dates on Friday (move to Saturday).
 
 ## How agents talk to each other
 1. **Team board** `state/team-board.md`: one row per active lead: stage, owner agent, last action, next action + date. Only the owner updates its row; Agent 5 can change any row.
@@ -45,9 +44,6 @@ Old team (TL, P1, P2, W1, S1–S6) is in `archive/agents-v1/` for reference only
 - Rules and context: this folder `D:\ai sales employee` + GitHub `joo147678/ai-sales-employee`.
 - Nothing is sent by any agent. Mohamed sends.
 
-## Still open (Mohamed will define)
-- Agent 3's analysis method (Mohamed will send his past breakdowns to train it).
-- Agent 4's message method after the first reply.
-- Number and spacing of follow-ups after the first one.
-- Where the agents run and how Mohamed approves and sends.
+## Still open
+- Agent 3's analysis gets sharper as Mohamed corrects breakdowns (`analysis/learning.md`).
 - Reading WhatsApp / Instagram inboxes directly (later). Until then a reply exists only when Mohamed reports it.

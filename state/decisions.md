@@ -3,6 +3,11 @@
 Write approvals, edits and send confirmations here, or say them in chat. One line each:
 `YYYY-MM-DD | prospect | APPROVE v1 / EDIT -> v2 / SENT v1 on <channel> / REJECT | note`
 
+2026-11-24 | ALL | Follow-ups: 2, on day 3 and day 6 from the first message; then Nurture | decided in chat
+2026-11-24 | ALL | Cold = prospects from the pipeline (Agent 2 onward); warm = already in conversation | decided in chat
+2026-11-24 | ALL | Agent 4 after a reply: get him to tell the problem, discuss it (answer "فهمني أكتر" / "what's the cause?"), flow varies; call idea only at the very end | decided in chat
+2026-11-24 | ALL | A2 solopreneurs fit between 1:1 and the academy | decided in chat
+2026-11-24 | ALL | System runs in the cloud 24/6, Friday off for every agent | decided in chat
 2026-11-24 | ALL | Breakdown adds ONE realistic action step the prospect can do tomorrow (one step, not a plan) | decided in chat
 2026-11-24 | ALL | Agent 3 follows Mohamed's Prospect Audit guide (analysis/METHOD.md): gap → business impact → one strategic opportunity (what, not how) → Discovery Call | decided in chat
 2026-11-24 | ALL | New Agent 3 Account Analyst between Qualifier and Conversation: analyses all the prospect's accounts, quick breakdown with Mohamed's thinking, trained on his past work. Team = 5 agents (1 Finder, 2 Qualifier, 3 Analyst, 4 Conversation, 5 Head of Sales) | decided in chat

@@ -1,4 +1,4 @@
-# Agent 2 — Qualifier (24/7, every day incl. Friday)
+# Agent 2 — Qualifier (24/6: Saturday–Thursday, Friday off)
 
 **Job:** filter Agent 1's candidates down to real potential clients, with evidence, against CONTEXT §3 (PLAYBOOK §15 steps 3–6: PS1 → AG → A1).
 - **A1:** both conditions: (1) EGP 500K+ sales for a brand, documented; (2) a content gap (no proper content / results only in Highlights / content aimed at beginners or small sellers).

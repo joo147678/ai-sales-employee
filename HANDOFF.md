@@ -43,3 +43,12 @@ Last updated: 2026-11-24 (Claude chat session). Full chat summary: `sessions/202
 - 2026-11-24 (later): Mohamed defined the ICP (A1 big media buyers, A2 service solopreneurs ~18–27, B domain experts ~30–45 with a company), the offer ladder (free content → program → consultation → 1:1) and the team: 4 agents (Prospect Finder, Qualifier, Conversation Agent with all follow-ups, Head of Sales). Applied to CONTEXT §3–4, PLAYBOOK §3, `agents/`. Old 10-agent team archived. Spec: `sessions/2026-11-24/system-design-mohamed.md`.
 - Still to come from Mohamed: Agent 3 message method/structure/tone; follow-ups after the first one; where the agents run; A2 economics.
 - GitHub: the folder is now a git repo linked to `joo147678/ai-sales-employee`; commits are local. Push was blocked by auto mode (prospect personal data): Mohamed runs `git push -u origin main` himself.
+- 2026-11-24 (end of day): all open design items closed by Mohamed: 5 agents (1 Finder, 2 Qualifier, 3 Account Analyst on `analysis/METHOD.md`, 4 Conversation, 5 Head of Sales); follow-ups day 3 + day 6 then Nurture; cold = from the pipeline; Agent 4 discusses the problem and brings the call idea only at the end; A2 → 1:1 or academy; cloud 24/6, Friday off.
+
+## Next (to build the system)
+1. Mohamed pushes the local commits: `git push -u origin main` (auto mode blocks Claude from pushing prospect data).
+2. Cloud blockers before the agents can run there:
+   - The cloud environment "Default" had NO internet on 2026-11-10 (even example.com failed). Agents 1 and 3 need the web; fix the environment network or they can't work.
+   - Instagram needs a login; a cloud run can't read logged-in Instagram, so Agent 3's IG analysis will be limited to public/search data in the cloud.
+3. Rebuild the cloud routines for the 5-agent team (old routines read Google Drive; Drive is retired): each routine clones the GitHub repo, reads CONTEXT/VOICE/PLAYBOOK/agents, writes to the sheet + repo state, Sat–Thu.
+4. Mohamed approves prospects in the sheet (column I) and sends from the Message Queue.
