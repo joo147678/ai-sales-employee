@@ -10,7 +10,7 @@ Decided by Mohamed on 2026-11-24 (instead of Apify or scrapers).
 - builtbyjoo must be a **Professional** account (Business or Creator).
 - It must be **linked to a Facebook Page**: Instagram > Settings > Accounts Center, or from the Page settings > Linked accounts.
 
-### 2. Create a Meta app
+### 2. Create a Meta app (done 2026-11-25: app "builtbyjoo sales", ID 1188355310435502, portfolio مُحَمَّد يُوسُف, use cases Instagram + Pages; permissions added: instagram_basic, instagram_manage_insights, pages_read_engagement, pages_show_list, business_management. Don't use "my content ecosystem": Mohamed uses it for something else)
 1. Open https://developers.facebook.com/apps and choose **Create App**.
 2. Pick the type **Business**, or "Other" then Business. Give it a name like `builtbyjoo sales`.
 3. In the app, add the **Instagram** product, choosing "API setup with Facebook login" (Instagram Graph API).
@@ -19,7 +19,7 @@ Decided by Mohamed on 2026-11-24 (instead of Apify or scrapers).
 ### 3. Get a token
 1. Open https://developers.facebook.com/tools/explorer
 2. Pick your app at the top right.
-3. **Add permissions:** `instagram_basic`, `pages_show_list`, `pages_read_engagement`, `business_management`.
+3. **Add permissions:** `instagram_basic`, `instagram_manage_insights`, `pages_show_list`, `pages_read_engagement`, `business_management`.
 4. Click **Generate Access Token** and approve with your Facebook account. Choose the Page linked to Instagram.
 5. The token only lasts an hour. To make it last 60 days, open https://developers.facebook.com/tools/debug/accesstoken, paste the token, then click **Extend Access Token**.
 
