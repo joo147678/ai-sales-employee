@@ -45,10 +45,20 @@ Last updated: 2026-11-24 (Claude chat session). Full chat summary: `sessions/202
 - GitHub: the folder is now a git repo linked to `joo147678/ai-sales-employee`; commits are local. Push was blocked by auto mode (prospect personal data): Mohamed runs `git push -u origin main` himself.
 - 2026-11-24 (end of day): all open design items closed by Mohamed: 5 agents (1 Finder, 2 Qualifier, 3 Account Analyst on `analysis/METHOD.md`, 4 Conversation, 5 Head of Sales); follow-ups day 3 + day 6 then Nurture; cold = from the pipeline; Agent 4 discusses the problem and brings the call idea only at the end; A2 → 1:1 or academy; cloud 24/6, Friday off.
 
-## Next (to build the system)
-1. Mohamed pushes the local commits: `git push -u origin main` (auto mode blocks Claude from pushing prospect data).
-2. Cloud blockers before the agents can run there:
-   - The cloud environment "Default" had NO internet on 2026-11-10 (even example.com failed). Agents 1 and 3 need the web; fix the environment network or they can't work.
-   - Instagram needs a login; a cloud run can't read logged-in Instagram, so Agent 3's IG analysis will be limited to public/search data in the cloud.
-3. Rebuild the cloud routines for the 5-agent team (old routines read Google Drive; Drive is retired): each routine clones the GitHub repo, reads CONTEXT/VOICE/PLAYBOOK/agents, writes to the sheet + repo state, Sat–Thu.
-4. Mohamed approves prospects in the sheet (column I) and sends from the Message Queue.
+## Cloud team (live since 2026-11-24)
+All in the cloud (environment Default), clone this GitHub repo, write state back to `main`. Sat–Thu, Friday off (each run checks the Cairo day and stops on Friday). Times are Cairo.
+| Routine | When | Does | ID |
+|---|---|---|---|
+| Sales Desk (Agents 4+5) | every 2h 08:15–00:15 | sync Message Queue, Gmail/Calendly, Calendar, Fathom; drafts + QA -> Message Queue; urgent alerts + Call Files | trig_01FB5rEvPkAs4TAvT9LYMatn |
+| Pipeline (Agents 1->2->3) | 02:00, 08:00, 14:00, 20:00 | find -> qualify (PS1 READY rows) -> breakdowns in analysis/ -> Agent 5 inbox | trig_01XE43zbBKzSyZ25q5t56a27 |
+| Daily Brief (Agent 5) | 09:30 | briefs/YYYY-MM-DD.md + push notification | trig_017q1JFvfjby3VJ4tP6t8x3K |
+| Weekly Report (Agent 5) | Thursday 19:00 | reports/YYYY-MM-DD-weekly.md, forecast, recommendations | trig_017EGQ2HahZLUXVQsW1BiKej |
+Manage: https://claude.ai/code/routines . Old Drive-based routines (Daily Brief trig_01Wh4prEhuFQWuZpWVAMDgC6, Hourly Watcher trig_01Wa1oEe4KXVtjE8CfwffwRR, Prospecting trig_01DX26Fsp8obXD6wzN1A3HWy) stay disabled; safe to delete.
+Verified 2026-11-24: Sales Desk run cloned the repo, read sheet/Gmail/Calendar/Fathom and pushed to main (commit bfe6e0d).
+
+## Open issues
+1. Cloud network still closed (test 2026-11-24 15:36 UTC: every site 000, WebFetch ENOTFOUND, Apify ERR_PROXY_TUNNEL). Pipeline works from WebSearch only until Mohamed opens the Default environment network.
+2. Instagram needs a login; cloud can't read it.
+3. Warm leads (Hussein, Mostafa, AbdulRahman D., Aser, Nermeen workshop 11-28): Agent 4 can't draft without the latest chat text. Mohamed pastes replies into the Message Queue Notes or state/decisions.md.
+4. Routines use Mohamed's plan usage (a run on 2026-11-24 16:16 UTC hit the 5-hour limit). If limits bite, reduce Sales Desk frequency.
+5. Local folder: always `git pull` before editing, the cloud pushes to main.

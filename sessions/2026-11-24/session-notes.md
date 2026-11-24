@@ -10,3 +10,9 @@
 ## Waiting on Mohamed
 - Full WhatsApp + Instagram chat set (goes in `chats/`).
 - Strategy decisions (see HANDOFF "Next").
+
+## Evening: cloud team live
+- Mohamed pushed to GitHub (3117adc -> 3109148).
+- Network re-test 15:36 UTC still blocked everywhere.
+- Created 4 cloud routines (Sales Desk, Pipeline, Daily Brief, Weekly Report), all Sat–Thu with a Friday guard; IDs in HANDOFF.md.
+- First Sales Desk run (18:15 UTC) worked end to end and pushed state to main. Earlier 16:16 run hit the 5-hour usage limit.
