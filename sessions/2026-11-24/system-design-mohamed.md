@@ -46,3 +46,11 @@ Formats proposed by Claude to test (see chat 2026-11-24): F1 = Yassin's winning 
 - **Cold outreach:** enters with the value directly in the first message, for the highest reply rate. No "shall I send it?", no file or link, no pitch. (Formats F1/F3 with "أبعتهولك؟" are dropped; F2, value inside the message, is the cold direction.)
 - **Warm / hot track:** a second part of sales, same Agent 3, for people who are warmer than cold. Mohamed will define it next.
 - Style fix: no commas/punctuation between sentences (that's what he meant by "الفواصل").
+
+## Part 6 — Personalized video outreach without filming (thinking aloud, 2026-11-24)
+Mohamed wants to keep personalized videos (Loom-style) in outreach because they show real study of the prospect, but without spending filming time; ideally the system makes the video itself in his voice.
+Options laid out by Claude (chat 2026-11-24):
+- A. Faceless screen-review video, fully automatic: Agent 3 writes a 60–90 s script → screenshots of the prospect's public profile/posts (Chrome) → narration in Mohamed's cloned voice (voice-clone service, his consent, trained on clean audio from his existing videos) → rendered with captions in his brand (OpenMontage/ffmpeg on the laptop) → MP4. Mohamed only approves the script (~1–2 min per video).
+- B. AI avatar of his face + cloned voice (personalized avatar video tools). Fastest to look "on camera", highest risk of feeling fake.
+- C. Hybrid: Mohamed records ONE short real intro once, reused; the personalized part is generated (A).
+Risks: Egyptian-dialect quality of cloned voices must be tested; if a prospect spots AI, trust drops (Mostafa already called out AI copy). His own rule: no unexpected files/links, yet his best message was a direct free video. Needs a pilot on 1–3 prospects before any rollout.
