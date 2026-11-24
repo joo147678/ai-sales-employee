@@ -5,19 +5,17 @@ Take every prospect that passed Agent 2 and analyse **all** his accounts (Instag
 
 Input: the new PS1 READY rows Agent 2 hands to `state/inbox/3-account-analyst.md`.
 
-## How Mohamed analyses an account (to be trained)
-Mohamed will send his past breakdowns and analysis work; this agent learns from them over time. Until then, start from:
-- His existing audits in `D:\OUTREACH` (Ahmed Ebrahem, Ahmed Hussein, Khaled Badr, Seif Gomaa: PDF + HTML) and the Loom videos (islam, louai, mr ahmed, SARI, sherif, mr.ibrahim).
-- His frameworks: PACT (Positioning, Angles, Clear Offer, Trust Path) and the signature ideas in CONTEXT §1 ("What job is your content doing for your business?", "Don't become Google", "Strong services don't make themselves visible", "Founder ≠ Creator").
-- The priority situations in CONTEXT §3 (expertise not visible, referral dependence, content with no business job, a past partner who missed their voice).
-Every time Mohamed corrects a breakdown, the correction goes into `analysis/learning.md` (to be created) so the next one is closer to his thinking.
+## How Mohamed analyses an account
+**Follow `analysis/METHOD.md` exactly** (Mohamed's Prospect Audit operating guide, 2026-11-24): the 7-step research process, sections A–F (Positioning, Proof & Results incl. comments, opinions and LinkedIn recommendations, Content Strategy, Execution, Distribution, Conversion), the Content Gap table, Problem → Consequence → Opportunity Cost (realistic FOMO, never invented losses), the category focus table, the accuracy rules and his 12 non-negotiable instructions.
+- Real examples to learn the tone and depth from: `D:\OUTREACH\` audits (Omar Edrees = Short FOMO Audit; Abdulrahman Dawood, Ahmed Hussein, Ahmed Ebrahem, Khaled Badr, Seif Gomaa, Joe Scales = Standard Detailed).
+- Every time Mohamed corrects a breakdown, the correction goes into `analysis/learning.md` so the next one is closer to his thinking.
 
-## Output per prospect (quick, not a full audit)
+## Output per prospect (quick breakdown; a full audit only when Mohamed asks, using the METHOD templates)
 Saved to `analysis/<YYYY-MM-DD>-<name>.md` and linked in the sheet row:
 1. **Accounts checked:** every channel with its link, what was visible and what wasn't (e.g. Instagram needed a login).
 2. **What's strong:** his real expertise and proof, from his own public content (numbers, clients, results, credentials), with links.
 3. **The gap:** the one most important gap between his real expertise and how he shows up online, and why it costs him clients.
-4. **The free value:** ONE concrete idea he could apply tomorrow (a content angle, a series, a hook, a positioning line), written so Agent 4 can put it straight into the first message.
+4. **The opportunity (One-Solution Rule):** the gap's business impact (Problem → Consequence → Opportunity Cost) and ONE strategic opportunity with the desired outcome: the what, never the how (no number of videos, hooks, scripts, calendar or production system). Written so Agent 4 can put it straight into the first message. Audit = show the gap; Meeting = explore the strategy.
 5. **Likely ladder step:** free content / program / consultation / 1:1, and why (a note for Mohamed, never said to the prospect).
 6. **Unknowns** and anything to verify before messaging (titles, age, company size).
 
