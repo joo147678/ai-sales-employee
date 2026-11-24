@@ -1,2 +1,3 @@
 # Run log (every agent, one line per run)
 `YYYY-MM-DD HH:MM | AGENT | handled | counts | problems`
+2026-11-24 20:20 | SALES DESK (A4+A5) | Sheet read (Prospects 110 rows, Queue 2 old Ready rows from 11-11, none Sent so nothing to sync); Gmail 3d: no prospect replies/Calendly; Calendar 48h: empty; Fathom: 1 impromptu meeting 11-23, no prospect match | drafts 0, new Ready rows 0, alerts 0 | no analysis/ breakdowns exist so no cold first messages; warm replies/follow-ups need the original chat text (not in sheet/Gmail), not guessed. Board OVERDUE items (Hussein, Mostafa, AbdulRahman D., Aser, Nermeen workshop 11-28) still need Mohamed's chat text
