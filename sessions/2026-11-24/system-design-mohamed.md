@@ -37,3 +37,7 @@ Prices as in CONTEXT §4 until Mohamed changes them.
 - Recommendation on Agent 4: merge follow-up into Agent 3. Reasons: it is the same thread and the same voice; Agent 3 already knows what was said; two agents on one chat risk sending twice or contradicting; a follow-up is just "the next message when there's no reply", one scheduled step of the conversation. Booked calls are then tracked by the call-prep step, not a separate follow-up agent.
 - In Mohamed's description, "if he replies, Agent 2 continues the conversation" most likely means Agent 3 (the conversation agent). Confirm.
 - Mapping to today's `agents/` files: Agent 1 = P1, Agent 2 = P2, Agent 3 = W1 + S1 + S3 (+ S2 if merged), Agent 4 = S2. TL, S4, S5, S6 wait for the rest of the design.
+
+## Part 4 — First message: value first (thinking aloud, 2026-11-24, NOT final)
+Mohamed: the first message must make them link him to big value immediately; founders have no time to chat, they want "what will you give me". He wants to give the free value directly. Also keep Yassin's winning messages and techniques (opener A got ~11 replies from ~22 media buyers).
+Formats proposed by Claude to test (see chat 2026-11-24): F1 = Yassin's winning opener compressed (proof number + gap + ready asset + yes/no); F2 = the value itself inside the message (one usable insight or ready hook + a question); F3 = Mohamed's best-ever message (ready free video, "whether we work together or not").

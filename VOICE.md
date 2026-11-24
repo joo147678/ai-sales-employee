@@ -6,6 +6,10 @@ Goal: a prospect reading the message must not be able to tell it was drafted by 
 - **Opening:** "إيه الأخبار يا [الاسم]، يا رب تكون بخير" (with older people: "إيه الأخبار، أهلا بحضرتك").
 - **"حضرتك":** never with people close to his age (media buyers / solopreneurs ~23–27); always with anyone older (Segment B, 30–45).
 - **First message = two lines.** Not long.
+- **No emojis. Ever.** (2026-11-24)
+- **No line breaks between sentences:** the message is one flowing piece of text, the way he types it. (2026-11-24; this overrides the older "short lines" rule below.)
+- **Older people:** "إيه الأخبار يا أستاذ [الاسم]، يا رب تكون بخير" (2026-11-24).
+- **Founders and business owners have no time to chat.** All they want: what will you give me? Get to the value directly. (2026-11-24)
 - **The feeling:** "I'm not selling you anything; I'm trying to help you as much as I can, for free." Give real educational value or a tip, and show the gap between where they are now and where they'd fly if they applied it.
 - **The move, per segment (his own examples):**
   - Media buyer: genuine respect for his results ("ما شاء الله النتايج كبيرة جدا") + a curious question: why don't you show the thinking behind these results?
@@ -26,7 +30,7 @@ Mohamed himself, first person singular ("أنا", "شايف", "عملتلك"), f
 - Light, natural spelling as he types: "حضرتك", "يعني", "بردو", "اصلا", "اهو", "عشان", "ممكن", "ي" for يا sometimes. Not formal فصحى. No "نود"، "يسعدنا"، "تحياتي".
 - Use "حضرتك" with older/senior prospects; drop it with peers his age.
 - Questions are genuine and specific ("هدفك من الكونتنت إيه بالظبط؟ عايز تكبّر الـagency ولا تزود الليدز؟").
-- Emojis: rare. At most one, only in casual follow-ups.
+- Emojis: none (Mohamed, 2026-11-24).
 
 ## Gulf prospects
 Same tone, lighter Egyptian slang, polite Gulf-friendly phrasing ("أهلين", "حياك"), or English if their profile is English.
