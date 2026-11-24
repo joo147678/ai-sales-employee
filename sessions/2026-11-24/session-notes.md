@@ -16,3 +16,4 @@
 - Network re-test 15:36 UTC still blocked everywhere.
 - Created 4 cloud routines (Sales Desk, Pipeline, Daily Brief, Weekly Report), all Sat–Thu with a Friday guard; IDs in HANDOFF.md.
 - First Sales Desk run (18:15 UTC) worked end to end and pushed state to main. Earlier 16:16 run hit the 5-hour usage limit.
+- 19:34 UTC: Default env still blocked despite 'Full access'. Mohamed created env 'sales web' (Full); network works there. All 4 routines moved to it (note: a partial job_config update wipes the prompt; always send the full ccr).

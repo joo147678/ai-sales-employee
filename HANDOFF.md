@@ -46,7 +46,7 @@ Last updated: 2026-11-24 (Claude chat session). Full chat summary: `sessions/202
 - 2026-11-24 (end of day): all open design items closed by Mohamed: 5 agents (1 Finder, 2 Qualifier, 3 Account Analyst on `analysis/METHOD.md`, 4 Conversation, 5 Head of Sales); follow-ups day 3 + day 6 then Nurture; cold = from the pipeline; Agent 4 discusses the problem and brings the call idea only at the end; A2 → 1:1 or academy; cloud 24/6, Friday off.
 
 ## Cloud team (live since 2026-11-24)
-All in the cloud (environment Default), clone this GitHub repo, write state back to `main`. Sat–Thu, Friday off (each run checks the Cairo day and stops on Friday). Times are Cairo.
+All in the cloud (environment "sales web" env_018QFyHiKVvTu9NrZdV2T1BK, Full network; the old Default env stays network-blocked even though it shows Full access), clone this GitHub repo, write state back to `main`. Sat–Thu, Friday off (each run checks the Cairo day and stops on Friday). Times are Cairo.
 | Routine | When | Does | ID |
 |---|---|---|---|
 | Sales Desk (Agents 4+5) | every 2h 08:15–00:15 | sync Message Queue, Gmail/Calendly, Calendar, Fathom; drafts + QA -> Message Queue; urgent alerts + Call Files | trig_01FB5rEvPkAs4TAvT9LYMatn |
@@ -57,7 +57,7 @@ Manage: https://claude.ai/code/routines . Old Drive-based routines (Daily Brief 
 Verified 2026-11-24: Sales Desk run cloned the repo, read sheet/Gmail/Calendar/Fathom and pushed to main (commit bfe6e0d).
 
 ## Open issues
-1. Cloud network still closed (test 2026-11-24 15:36 UTC: every site 000, WebFetch ENOTFOUND, Apify ERR_PROXY_TUNNEL). Pipeline works from WebSearch only until Mohamed opens the Default environment network.
+1. Network solved 2026-11-24 19:32 UTC by moving to the new "sales web" environment: google/instagram/facebook/udemy 200, WebFetch works. LinkedIn returns 403 (bot block), so LinkedIn evidence comes from WebSearch snippets.
 2. Instagram needs a login; cloud can't read it.
 3. Warm leads (Hussein, Mostafa, AbdulRahman D., Aser, Nermeen workshop 11-28): Agent 4 can't draft without the latest chat text. Mohamed pastes replies into the Message Queue Notes or state/decisions.md.
 4. Routines use Mohamed's plan usage (a run on 2026-11-24 16:16 UTC hit the 5-hour limit). If limits bite, reduce Sales Desk frequency.
