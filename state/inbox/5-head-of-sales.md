@@ -1,3 +1,5 @@
 # Inbox — 5-head-of-sales
 `YYYY-MM-DD HH:MM | from AGENT | lead (row) | done | needed from you | links` → mark `DONE <date>` when handled.
 2026-11-24 21:45 | from Agent 1-3 pipeline | none | pipeline run: WebFetch blocked (hosts not resolvable, e.g. linkedin.com), WebSearch only; 0 PS1 READY, 0 breakdowns | if this repeats next run, allow linkedin/instagram/facebook hosts or run prospecting from the laptop (Chrome) | state/run-log.md
+2026-11-24 22:30 | from Agent 3 | Mohamed Abo Khalil (sheet row 111) | prospect + breakdown ready for Mohamed's approval (Instagram/LinkedIn not visible, gap partly evidenced) | review, then Mohamed approves | https://github.com/joo147678/ai-sales-employee/blob/main/analysis/2026-11-24-mohamed-abo-khalil.md
+2026-11-24 22:30 | from Agent 3 | Hasan Sharaf Eldeen / AXIS AI (sheet row 112) | ESCALATION: gap not clear (no social presence found, LinkedIn blocked, age unverified); no action step written | decide whether to keep or park until a Chrome look | https://github.com/joo147678/ai-sales-employee/blob/main/analysis/2026-11-24-axis-ai-hasan-sharaf-eldeen.md
