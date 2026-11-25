@@ -56,6 +56,12 @@ All in the cloud (environment "sales web" env_018QFyHiKVvTu9NrZdV2T1BK, Full net
 Manage: https://claude.ai/code/routines . Old Drive-based routines (Daily Brief trig_01Wh4prEhuFQWuZpWVAMDgC6, Hourly Watcher trig_01Wa1oEe4KXVtjE8CfwffwRR, Prospecting trig_01DX26Fsp8obXD6wzN1A3HWy) stay disabled; safe to delete.
 Verified 2026-11-24: Sales Desk run cloned the repo, read sheet/Gmail/Calendar/Fathom and pushed to main (commit bfe6e0d).
 
+## Update 2026-11-25
+- Instagram: official Meta API, app "builtbyjoo sales" (1188355310435502) + permanent System User token "builtbyjoo sales bot" (never expires) in env sales web (META_IG_TOKEN, IG_USER_ID). Guide: setup/meta-instagram-api.md.
+- Prospecting sources rewritten (agents/1-prospect-finder.md): no marketplaces/job boards; cloud = LinkedIn people search via WebSearch + own websites + IG Business Discovery. Reddit is blocked from the cloud (403); IG hashtag search needs Meta App Review; FB groups need login.
+- New Agent 6 Audience Researcher (agents/6-audience-researcher.md): laptop scheduled task `ai-sales-audience-research` 11:00 Sat–Thu via Claude in Chrome (Reddit, FB groups, IG comments, LinkedIn). Read only: pains report research/pains/, ICP leads to state/inbox/1-prospect-finder.md, comment drafts in Message Queue (Touch = Community) for Mohamed to post. Runs only when the laptop + app are open.
+- First pipeline run with new sources (15:15): 3 breakdowns (Abo Khalil updated with IG: 0 posts; Saad Al Wuqayan; Mohamed Nasser law firm). New-candidate quality still low: LinkedIn profile pages return 999, so evidence comes from snippets and personal sites.
+
 ## Open issues
 1. Network solved 2026-11-24 19:32 UTC by moving to the new "sales web" environment: google/instagram/facebook/udemy 200, WebFetch works. LinkedIn returns 403 (bot block), so LinkedIn evidence comes from WebSearch snippets.
 2. Instagram needs a login; cloud can't read it.
