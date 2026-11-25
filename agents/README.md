@@ -23,9 +23,13 @@ Every agent reads, at the start of every run: `CONTEXT.md` → `VOICE.md` → `P
 | 2 Qualifier | `2-qualifier.md` | 24/6 (Sat–Thu) | Agent 3 |
 | 3 Account Analyst | `3-account-analyst.md` | 24/6 (Sat–Thu) | Agent 5 → Mohamed (approval) → Agent 4 |
 | 4 Conversation Agent | `4-conversation-agent.md` | 24/6 (Sat–Thu) | Agent 5 (QA) → Message Queue → Mohamed sends; Agent 5 when a call is booked |
+| 6 Audience Researcher | `6-audience-researcher.md` | Sat–Thu on Mohamed's laptop (Chrome: Reddit, FB groups, IG, LinkedIn) | Agent 1 (leads), Mohamed (pains report, comment drafts) |
 | 5 Head of Sales | `5-head-of-sales.md` | every team run + 09:30 daily brief + Thursday weekly report | everyone; Mohamed |
 
 Old team (TL, P1, P2, W1, S1–S6) is in `archive/agents-v1/` for reference only.
+
+## Agent 6 (Mohamed, 2026-11-25)
+Agent 6 listens to the audience on Reddit / Facebook groups / Instagram comments / LinkedIn, reports their problems and how they think (`research/pains/`), hands ICP people to Agent 1 and drafts helpful comments for Mohamed to post. Read only.
 
 ## Working days (Mohamed, 2026-11-24)
 - The system runs in the **cloud, 24/6: Saturday to Thursday. Friday is off for every agent.** No drafts, no runs, no dates on Friday (move to Saturday).

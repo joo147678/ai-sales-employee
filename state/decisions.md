@@ -29,3 +29,4 @@ Write approvals, edits and send confirmations here, or say them in chat. One lin
 2026-11-10 | Yassin's 9 non-replies (Nov 8) | Run A1 first; only passes get follow-ups | decided in chat
 2026-11-10 | Week 1 drafts 1–9 | Drafted v1, waiting for APPROVE | in spec doc, tab "الأسبوع 1"
 - 2026-11-24 | Instagram data source = official Meta Graph API Business Discovery (no Apify, no scraping). Token lives only in the cloud env variables. | Mohamed
+- 2026-11-25 | Prospecting sources: no marketplaces/job boards; cloud = LinkedIn via WebSearch + websites + IG Business Discovery; Reddit/FB groups/IG comments via new Agent 6 on the laptop (Chrome), read only, comment drafts for Mohamed to post. | Mohamed
