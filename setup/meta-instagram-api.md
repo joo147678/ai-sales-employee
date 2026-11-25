@@ -48,3 +48,9 @@ curl -sg "https://graph.facebook.com/v21.0/$IG_USER_ID?fields=business_discovery
 - Limit: ~200 calls per hour. The Pipeline uses at most 30 per run.
 - Use `curl -g` (otherwise curl treats {} in the URL as a glob and the response breaks).
 - Read only. The API can't follow, like or DM anyone.
+
+## Current setup (2026-11-25): permanent token
+- **System User:** "builtbyjoo sales bot" (ID 61596697781247) in Business portfolio "مُحَمَّد يُوسُف", Employee role.
+- **Assets (read-only):** Page "Mohamed Yousef" (Insights), Instagram builtbyjoo (Insights), App builtbyjoo sales (Develop app).
+- **Token:** Business Settings > System users > builtbyjoo sales bot > Generate token, expiry **Never**, the same 5 permissions. Verified: is_valid True, expires_at 0 (never).
+- No renewal every 60 days. If it ever stops (error 190), generate a new token from the same place and replace `META_IG_TOKEN` in sales web.

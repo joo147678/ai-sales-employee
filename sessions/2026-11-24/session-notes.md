@@ -19,3 +19,4 @@
 - 19:34 UTC: Default env still blocked despite 'Full access'. Mohamed created env 'sales web' (Full); network works there. All 4 routines moved to it (note: a partial job_config update wipes the prompt; always send the full ccr).
 - Instagram: Mohamed chose the official Meta Graph API (Business Discovery) over Apify/scrapers. Guide: setup/meta-instagram-api.md. Pipeline uses it once META_IG_TOKEN + IG_USER_ID are set in the 'sales web' env. Unofficial scraper test was refused by the permission classifier.
 - 2026-11-25 00:47 Cairo: Meta API test passed (token valid for builtbyjoo; Business Discovery read moabokhalil: bio, website, 38 followers, 0 posts).
+- 2026-11-25 14:40 Cairo: replaced short-lived Meta token with a permanent System User token (builtbyjoo sales bot); verified never-expiring; Instagram alert closed.
