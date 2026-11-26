@@ -65,3 +65,9 @@ More in VOICE.md.
 
 ## To add when available
 - Mohamed's voice notes (transcripts), more of Mohamed's own sent messages, and the final outreach strategy he will define.
+
+
+## Weekly update 2026-11-26 (Tentative)
+- Opener D (short LinkedIn English, Q-20261111-01/02): still 0 sent after 15 days; untested, no result to learn from.
+- Angles: Angle Used has 11 single-use values (n=1 each), so no angle can be ranked yet. Use fixed angle IDs from next week.
+- Reply -> call remains the drop: 66 messages -> 16 replies (24%) -> 0 calls (Fathom 11/23). Tentative until Mohamed confirms the numbers.
