@@ -30,3 +30,6 @@ For any AI tool or model working on this project (Claude Code, Codex, Manus, Cha
 
 ## Hard boundaries (from PLAYBOOK §7)
 Never send messages, never automate Instagram/LinkedIn DMs, never invent replies or proof. Mohamed approves every outbound text and every price.
+
+## Dashboard (2026-11-27)
+Mohamed decides from the Sales Desk dashboard: https://claude.ai/artifact/XzXqpjGgx7bYMYSR3RM5JH (source: `dashboard/sales-desk.html`). It reads/writes the sheet tabs Prospects, Message Queue, Reports, Decisions. Protocol for every agent: `agents/DASHBOARD.md`.

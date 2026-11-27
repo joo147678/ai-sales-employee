@@ -30,3 +30,4 @@ Write approvals, edits and send confirmations here, or say them in chat. One lin
 2026-11-10 | Week 1 drafts 1–9 | Drafted v1, waiting for APPROVE | in spec doc, tab "الأسبوع 1"
 - 2026-11-24 | Instagram data source = official Meta Graph API Business Discovery (no Apify, no scraping). Token lives only in the cloud env variables. | Mohamed
 - 2026-11-25 | Prospecting sources: no marketplaces/job boards; cloud = LinkedIn via WebSearch + websites + IG Business Discovery; Reddit/FB groups/IG comments via new Agent 6 on the laptop (Chrome), read only, comment drafts for Mohamed to post. | Mohamed
+- 2026-11-27 | Sales Desk dashboard = where Mohamed follows and decides; sheet tabs Reports + Decisions added; agents follow agents/DASHBOARD.md; email notifications to Mohamed's own Gmail for URGENT, daily brief and weekly. | Mohamed

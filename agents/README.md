@@ -34,6 +34,9 @@ Agent 6 listens to the audience on Reddit / Facebook groups / Instagram comments
 ## Working days (Mohamed, 2026-11-24)
 - The system runs in the **cloud, 24/6: Saturday to Thursday. Friday is off for every agent.** No drafts, no runs, no dates on Friday (move to Saturday).
 
+## Dashboard (Mohamed, 2026-11-27)
+Mohamed works from the Sales Desk dashboard (https://claude.ai/artifact/XzXqpjGgx7bYMYSR3RM5JH), built on the sheet tabs Reports and Decisions. Every agent follows `agents/DASHBOARD.md`: write reports/breakdowns/alerts to the Reports tab, process Mohamed's Decisions rows, email him notifications.
+
 ## How agents talk to each other
 1. **Team board** `state/team-board.md`: one row per active lead: stage, owner agent, last action, next action + date. Only the owner updates its row; Agent 5 can change any row.
 2. **Inboxes** `state/inbox/<agent>.md`: a handoff is a line appended to the next agent's inbox:
