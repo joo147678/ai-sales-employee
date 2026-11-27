@@ -62,6 +62,12 @@ Verified 2026-11-24: Sales Desk run cloned the repo, read sheet/Gmail/Calendar/F
 - New Agent 6 Audience Researcher (agents/6-audience-researcher.md): laptop scheduled task `ai-sales-audience-research` 11:00 Sat–Thu via Claude in Chrome (Reddit, FB groups, IG comments, LinkedIn). Read only: pains report research/pains/, ICP leads to state/inbox/1-prospect-finder.md, comment drafts in Message Queue (Touch = Community) for Mohamed to post. Runs only when the laptop + app are open.
 - First pipeline run with new sources (15:15): 3 breakdowns (Abo Khalil updated with IG: 0 posts; Saad Al Wuqayan; Mohamed Nasser law firm). New-candidate quality still low: LinkedIn profile pages return 999, so evidence comes from snippets and personal sites.
 
+## Sales Desk dashboard (2026-11-27)
+- URL: https://claude.ai/artifact/XzXqpjGgx7bYMYSR3RM5JH (source dashboard/sales-desk.html; republish from this file to keep the URL). Uses the Google Sheets connector as the viewer (get_values, update_values, append_values).
+- Tabs: Today (KPIs, open alerts, latest brief) / Send (Ready queue: open channel, copy, sent, edited & sent, skip) / Approvals (PS1 READY + breakdown + approve/reject with reason) / Leads (log the latest reply) / Reports / Decisions (instructions to the team + log).
+- New sheet tabs: Reports (Date|Type|Title|Target|Text|Link) and Decisions (Timestamp|Type|Target|Decision|Note|Status|Processed At). Protocol: agents/DASHBOARD.md.
+- Email notifications to Mohamed's own Gmail: Sales Desk (URGENT), Daily Brief, Weekly (Gmail connector added to Weekly). Address lives only in the routine prompts, not in the repo.
+
 ## Open issues
 1. Network solved 2026-11-24 19:32 UTC by moving to the new "sales web" environment: google/instagram/facebook/udemy 200, WebFetch works. LinkedIn returns 403 (bot block), so LinkedIn evidence comes from WebSearch snippets.
 2. Instagram needs a login; cloud can't read it.
