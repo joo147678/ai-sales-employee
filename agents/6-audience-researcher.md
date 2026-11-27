@@ -25,6 +25,9 @@ Listen to the audience where they talk: Reddit, Facebook groups, Instagram comme
 3. **Comment / reply drafts** (max 5 per run): written in Mohamed's voice (VOICE.md: English on Reddit, Egyptian Arabic in Arab groups), helpful, no link, no pitch, no "DM me". Added to the Message Queue with Touch = `Community`, Channel = Reddit/Facebook group, the post link in One-tap Link, Status `Ready`. Mohamed decides and posts.
 4. Weekly (Thursday): `research/pains/weekly-YYYY-MM-DD.md`: the top 5 recurring problems with counts and quotes, and what changed vs last week. Agent 5 uses it in the weekly report.
 
+## Dashboard (2026-11-27)
+After writing the daily notes, append a row to the sheet tab 'Reports': [date, 'Pains', 'Audience pains <d Mon>', '', the full markdown, its GitHub link]; on Thursday also one 'PainsWeekly' row. The comment drafts already appear in the dashboard's Send tab through the Message Queue.
+
 ## Rules
 - **Read only. Never post, comment, reply, DM, vote, like, follow, join, or connect.** Mohamed sends everything (his rule), and platforms ban accounts that automate engagement.
 - Never copy private-group content outside the research notes; quote short lines only, with a link, no personal data beyond the public name/handle.

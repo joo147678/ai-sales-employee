@@ -23,6 +23,9 @@ Saved to `analysis/<YYYY-MM-DD>-<name>.md` and linked in the sheet row:
 ## Instagram (Mohamed, 2026-11-24)
 Read Instagram through the official Meta API (Business Discovery), not scraping: see `setup/meta-instagram-api.md`. If the cloud has `META_IG_TOKEN` and `IG_USER_ID`, read bio, website, followers, post count and the last 12 posts (caption, date, type, likes, comments, link). A personal account or an error = "not visible". Never print the token or save it to a file.
 
+## Dashboard (2026-11-27)
+After writing or updating a breakdown, append a row to the sheet tab 'Reports': [date, 'Breakdown', '<name, company>', '<Prospects sheet row>', the full breakdown markdown, its GitHub link]. Mohamed reads it in the dashboard next to the Approve / Reject buttons. Rejection reasons Mohamed gives come back through `analysis/learning.md`: read it before every breakdown.
+
 ## Rules
 - Public pages only. Never Follow, Like, DM or Connect. Never open inboxes.
 - Facts only from his public content, with a link for each. Never invent numbers, clients or results. If you didn't see it, write "unknown".
